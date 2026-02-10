@@ -66,3 +66,22 @@ Three analytical DataFrames are created to explore neighborhood pricing, accommo
 
 - Dual-axis line chart  
   Combines both time series new hosts and average price into one visualization.
+
+  ### Key Findings
+  **Average Price Over Time**
+- Prices rose sharply from 2008 to 2009.
+- Prices fluctuated but stayed high through the 2010s.
+- A second peak appears around 2018–2019.
+- Prices dropped noticeably by 2021.
+  
+**New Hosts Over Time**
+- New hosts increased rapidly until a peak in 2015.
+- After 2015, new host numbers declined sharply and did not recover.
+- The decline is long‑lasting and consistent.
+  
+**Combined Trend (Regulation Impact)**
+- After 2015, new hosts decreased while average prices increased.
+- This pattern suggests that 2015 regulations reduced supply, contributing to higher prices.
+- Both metrics eventually decline after 2019, reflecting broader market changes.
+
+
