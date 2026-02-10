@@ -65,4 +65,4 @@ Three analytical DataFrames are created to explore neighborhood pricing, accommo
   - Whether average price was impacted
 
 - Dual-axis line chart  
-  Combines both time series—new hosts and average price—into one visualization.
+  Combines both time series new hosts and average price into one visualization.
