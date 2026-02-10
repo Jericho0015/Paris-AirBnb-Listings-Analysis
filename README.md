@@ -33,23 +33,23 @@ Ensure the dataset is ready for grouping, aggregation, and visualization
 
 **📊 Objective 2: Preparing Data for Visualization**
 Three analytical DataFrames are created to support the visual analysis:
-paris_listings_neighbourhood
+- **paris_listings_neighbourhood** 
 Groups listings by neighbourhood
 Calculates average price per neighbourhood
 Sorted in ascending order to identify cheapest → most expensive areas
-paris_listings_accommodations
+
+- **paris_listings_accommodations**
 Filters the dataset to the most expensive neighbourhood identified above
 Groups by accommodates
 Computes average price by guest capacity
 Sorted in ascending order to show how pricing scales with size
-paris_listings_over_time
+
+- **paris_listings_over_time**
 Extracts year from host_since
 
-Computes:
-
-Number of new hosts per year
-
-Average listing price per year
+**Computes:**
+- Number of new hosts per year
+- Average listing price per year
 
 📈 Objective 3: Data Visualization
 
