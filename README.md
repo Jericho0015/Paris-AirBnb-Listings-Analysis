@@ -67,8 +67,8 @@ Three analytical DataFrames are created to explore neighborhood pricing, accommo
 - Dual-axis line chart  
   Combines both time series new hosts and average price into one visualization.
 
-  ### Key Findings
-  **Average Price Over Time**
+### Key Findings
+**Average Price Over Time**
 - Prices rose sharply from 2008 to 2009.
 - Prices fluctuated but stayed high through the 2010s.
 - A second peak appears around 2018–2019.
